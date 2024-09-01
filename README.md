@@ -16,3 +16,13 @@ Desafio de Projeto DIO - Relatório de Vendas com análises
 
 #Imagem 5
 ![](Imagem5.jpg)
+ 
+
+#Imagem 6
+![](Imagem6_param.jpg)
+
+#Imagem 7
+![](Imagem7_param.jpg)
+
+#Imagem 8
+![](Imagem8_param.jpg)
